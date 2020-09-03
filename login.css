@@ -1,0 +1,21 @@
+body {
+    margin: 0;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 13px;
+    line-height: 18px;
+    color: #333;
+    background-color: #fff;
+}
+
+#login-form {
+    margin-top: 8px;
+}
+form {
+    margin: 0 0 18px;
+}
+
+form {
+    display: block;
+    margin-top: 0em;
+}
+

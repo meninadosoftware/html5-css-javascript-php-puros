@@ -1,0 +1,51 @@
+body { 
+background-color: white ;
+font : 30 px, arial;
+}
+
+#menu ul {
+     padding:0px;
+    margin:0px;
+    background-color:#00BFFF;
+    list-style:none;
+	position: absolute;
+	width : 98.9%;
+	height :50px; 
+	word-spacing: 90px;
+} 
+#menu ul li { display: inline; 
+}
+#menu ul li a {
+    padding:16px 13px;
+    display: inline-block;
+	font : 20 px, arial;
+
+    /* visual do link */
+    background-color:white;
+    color: #333;
+    text-decoration: none;
+    border-bottom:3px solid #white;
+	word-spacing: 3px;
+}
+#menu ul li a:hover {
+    background-color:#D6D6D6;
+    color: #6D6D6D;
+    border-bottom:3px solid #EA0000;
+}
+
+footer {
+    position: relative;
+    left: 0;
+    width: 100%;
+    background-color: gray;
+    color:black;
+    text-align: center;
+}
+p { color : black; 
+font : 20 px,verdana; 
+
+
+} 
+
+
+
